@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <TargetFramework>net5.0</TargetFramework>
     <RootNamespace>dnc200_change_calculatorTest</RootNamespace>
 
     <IsPackable>false</IsPackable>
@@ -15,7 +15,7 @@
 
   <ItemGroup>
     <Reference Include="dnc200-change-calculator">
-      <HintPath>..\..\src\dnc200-change-calculator\bin\Debug\netcoreapp2.1\dnc200-change-calculator.dll</HintPath>
+      <HintPath>..\..\src\dnc200-change-calculator\bin\Debug\net5.0\dnc200-change-calculator.dll</HintPath>
     </Reference>
   </ItemGroup>
 
